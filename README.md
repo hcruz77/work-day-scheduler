@@ -1,7 +1,7 @@
 # Work Day Scheduler
 
 ## Description
-This is a work day scheduler that allows the user to save events for each hour of the day. 
+This is a work day scheduler that allows the user to save events for each hour of the day. Practiced utilizing Bootstrap, JavaScript, jQuery, and third-party API's.
 
 ## Link
 https://hcruz77.github.io/work-day-scheduler/
